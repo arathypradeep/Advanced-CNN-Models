@@ -13,7 +13,7 @@ This repository contains advanced Convolutional Neural Network (CNN) models with
 ## Installation
 1. Clone the repository:
    ```sh
-   git clone https://github.com/your-username/Advanced-CNN-Models.git
+   git clone https://github.com/arathypradeep/Advanced-CNN-Models.git
    ```
 2. Navigate into the project directory:
    ```sh
