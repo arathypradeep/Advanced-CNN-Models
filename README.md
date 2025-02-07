@@ -1,7 +1,7 @@
 # Advanced CNN Models
 
 ## Description
-This repository contains advanced Convolutional Neural Network (CNN) models with explainability techniques implemented in Python.
+This repository contains advanced Deep Learning models with explainability techniques implemented in Python.
 
 ## Table of Contents
 - [Installation](#installation)
@@ -13,11 +13,11 @@ This repository contains advanced Convolutional Neural Network (CNN) models with
 ## Installation
 1. Clone the repository:
    ```sh
-   git clone https://github.com/arathypradeep/Advanced-CNN-Models.git
+   git clone https://github.com/arathypradeep/Advanced-DL-Models.git
    ```
 2. Navigate into the project directory:
    ```sh
-   cd Advanced-CNN-Models
+   cd Advanced-DL-Models
    ```
 3. Install dependencies:
    ```sh
@@ -33,7 +33,7 @@ Open the desired notebook from the Jupyter interface.
 
 ## Project Structure
 ```
-📦 Advanced-CNN-Models
+📦 Advanced-DL-Models
 ├── Attention_mech.ipynb          # Implementation of Attention Mechanisms
 ├── Grad_Cam.ipynb                # Grad-CAM for visual model explainability
 ├── LSTM.ipynb                     # LSTM model for sequential data processing
